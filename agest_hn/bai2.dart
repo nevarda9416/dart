@@ -1,4 +1,4 @@
-/**
+/*
  * Bài 2: Ứng dụng tính tuổi
  * Xây dựng một ứng dụng console tính toán tuổi của một người dựa trên ngày sinh nhập vào.
  * Yêu cầu:

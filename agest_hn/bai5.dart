@@ -1,4 +1,4 @@
-/**
+/*
  * Bài 5: Sử Dụng late Keyword
  * Yêu cầu: Tạo một class UserProfile với một thuộc tính String userName không thể null, nhưng bạn muốn khởi tạo sau (ví dụ, trong một hàm initialize() nào đó).
  * Sử dụng late để trì hoãn việc khởi tạo và đảm bảo rằng nó không gây ra lỗi khi truy cập sau khi được khởi tạo đúng cách.

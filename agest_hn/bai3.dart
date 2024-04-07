@@ -1,4 +1,4 @@
-/**
+/*
  * Bài 3: Kiểm Tra và Xử Lý Nullable Variables
  * Yêu cầu: Khai báo một biến String? có thể là null.
  * Viết một hàm kiểm tra xem biến đó có null không. Nếu không null, in ra độ dài của chuỗi. Nếu null, in ra "Chuỗi là null".

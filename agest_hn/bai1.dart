@@ -1,3 +1,10 @@
+/*
+ * Bài tập 1: Ứng Dụng Tính Toán
+ * Tạo một ứng dụng console thực hiện các phép tính cơ bản như cộng, trừ, nhân, chia, và lấy phần dư.
+ * Yêu cầu:
+ * Người dùng nhập vào hai số và lựa chọn phép tính. Dung enum de dinh nghia cac thong so cho cac phep tinh: 0/cong, 1/hieu, 2/nhan, 3/chia, 4/du:
+ * Hiển thị kết quả sau khi thực hiện phép tính.
+ */
 import 'dart:io';
 
 enum PhepToan { cong, tru, nhan, chia, du }
