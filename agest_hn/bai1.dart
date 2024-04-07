@@ -44,7 +44,7 @@ main() {
     print("\nKết quả: ");
     print(
         '$soThuNhat ${phepToan.toString().split('.').last} $soThuHai = $ketQua');
-  } on Exception catch (_) {
-    print('Có lỗi xảy ra. Vui lòng thử lại.');
+  } catch (e) {
+    print(e.toString());
   }
 }
